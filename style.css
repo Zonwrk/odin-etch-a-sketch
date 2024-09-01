@@ -35,7 +35,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(22, 22, 76);
+    background-color: white;
     flex-wrap: wrap;
     width: 600px;
 }

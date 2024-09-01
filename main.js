@@ -1,5 +1,5 @@
 const container = document.querySelector("#container");
-let userSquareInput = 60;
+let userSquareInput = 20;
 const restartButton = document.querySelector("button");
 
 
